@@ -1,0 +1,5 @@
+# Temp folder
+temp/
+
+# Log folder
+log/*.tmp
